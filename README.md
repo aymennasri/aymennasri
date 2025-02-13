@@ -3,9 +3,8 @@
 ## About Me
 
 I'm an AI & Data Science Engineering Student passionate about R and dealing with data. Based in Tunisia 🇹🇳
-- 🔭 I'm currently developing an R package that simplifies access to the Tunisian Government open data catalog using their official API.
-- 🌱 I'm studying AI & Data Science Engineering at EPI Digital School.
-- 🎓 Certified as a Data Scientist Associate in R by DataCamp.
+- Certified as a Data Scientist Associate in R by DataCamp.
+- I'm currently developing an R package that simplifies access to the Tunisian Government open data catalog using their official API.
 
 - 🌐 **Website:** [aymennasri.me](https://aymennasri.me)
 - 🐦 **BlueSky:** [@aymennasri.me](https://bsky.app/profile/aymennasri.me)
