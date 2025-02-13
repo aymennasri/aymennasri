@@ -13,11 +13,11 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 - 📧 **Email:** [aymennasri2018.an@gmail.com](mailto:aymennasri2018.an@gmail.com)
 
 ## 🚀 Skills
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymennasri&layout=compact&theme=dark)
 - **Languages:** R, Python, SQL
 - **Databases:** MongoDB
 - **Tools:** Quarto, Linux
 - **Cloud:** AWS (AWS Academy Certified)
+- *Basically anything computer/tech-related*.
 
 ## 📦 R Packages
 - [ggfootball](https://github.com/aymennasri/ggfootball) - Author & Maintainer
@@ -29,9 +29,4 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 
 ## 📊 GitHub Stats
 ![Aymen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymennasri&show_icons=true&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aymennasri&theme=dark)
-
-## 🗣️ Languages
-- Arabic (Native)
-- English (C1)
-- French (B2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aymennasri&theme=github_dark)
