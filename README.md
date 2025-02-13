@@ -14,8 +14,6 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 
 ## 🚀 Skills
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymennasri&layout=compact&theme=dark)
-
-## 🛠️ Tech Stack
 - **Languages:** R, Python, SQL
 - **Databases:** MongoDB
 - **Tools:** Quarto, Linux
