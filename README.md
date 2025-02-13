@@ -13,6 +13,7 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 - 📧 **Email:** [aymennasri2018.an@gmail.com](mailto:aymennasri2018.an@gmail.com)
 
 ## 🚀 Skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymennasri&layout=compact&theme=dark)
 
 ## 🛠️ Tech Stack
 - **Languages:** R, Python, SQL
@@ -28,14 +29,8 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 - [tndata](https://github.com/aymennasri/tndata) - Author & Maintainer
   - Currently in development.
 
-## 📈 GitHub Stats
-
-![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymennasri&show_icons=true&theme=radical)
-
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aymennasri&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymennasri&layout=compact&theme=dark)
+![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymennasri&show_icons=true&theme=radical)
 
 ## 🗣️ Languages
 - Arabic (Native)
