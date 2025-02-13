@@ -28,7 +28,7 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
   - Currently in development.
 
 ## 📊 GitHub Stats
-![Aymen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymennasri&show_icons=true&theme=dark)
+![Aymen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymennasri&show_icons=true&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aymennasri&theme=dark)
 
 ## 🗣️ Languages
