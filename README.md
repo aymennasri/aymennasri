@@ -15,6 +15,7 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 - **Databases:** MongoDB
 - **Tools:** Quarto, Linux
 - **Cloud:** AWS (AWS Academy Certified)
+- **AI:** LLMs
 - *Basically anything computer/tech-related*.
 
 ## 📦 R Packages
