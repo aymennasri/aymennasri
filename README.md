@@ -23,8 +23,8 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
   - Created a package for interactive football data visualization built on ggiraph and highcharter.
 - [worldfootballR](https://github.com/JaseZiv/worldfootballR) - Active Contributor
   - Contributed to functions extracting data from known football stats websites.
-- [tndata](https://github.com/aymennasri/tndata) - *Currently in development*
-  - Creating a package that simplifies access to the Tunisian Government open data catalog using their official API. 
+- [tndata](https://github.com/aymennasri/tndata) - Author & Maintainer
+  - Created a package that simplifies access to the Tunisian Government open data catalog using their official API. 
 
 ## 📊 GitHub Stats
 ![Aymen's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymennasri&show_icons=true&theme=github_dark)
