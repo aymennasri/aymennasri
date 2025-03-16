@@ -4,7 +4,6 @@
 
 I'm an AI & Data Science Engineering Student passionate about R and dealing with data. Based in Tunisia 🇹🇳
 - Certified as a Data Scientist Associate in R by DataCamp.
-- I'm currently developing an R 
 - 🌐 **Website:** [aymennasri.me](https://aymennasri.me)
 - 🦋 **BlueSky:** [@aymennasri.me](https://bsky.app/profile/aymennasri.me)
 - 💼 **LinkedIn:** [Aymen Nasri](https://linkedin.com/in/aymennasri)
