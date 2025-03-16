@@ -7,7 +7,6 @@ I'm an AI & Data Science Engineering Student passionate about R and dealing with
 - 🌐 **Website:** [aymennasri.me](https://aymennasri.me)
 - 🦋 **BlueSky:** [@aymennasri.me](https://bsky.app/profile/aymennasri.me)
 - 💼 **LinkedIn:** [Aymen Nasri](https://linkedin.com/in/aymennasri)
-- 📧 **Email:** [aymennasri2018.an@gmail.com](mailto:aymennasri2018.an@gmail.com)
 
 ## 🚀 Skills
 - **Languages:** R, Python, SQL
