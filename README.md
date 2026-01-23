@@ -6,7 +6,9 @@ An AI & Data Science Engineering Student at [EPI Digital School](https://www.epi
 
 The author of [{ggfootball}](https://aymennasri.me/posts/%7Bggfootball%7D%20is%20now%20live!/), [{tndata}](https://aymennasri.github.io/tndata/), a contributor in [{worldfootballR}](https://jaseziv.github.io/worldfootballR/authors.html) and the main collaborator in [zed-r](https://github.com/ocsmit/zed-r); an extension for R programming on the Rust-based IDE Zed.
 
-Currently working on developing AI solutions for day-to-day tasks to help improve productivity in various fields. Based in Tunisia 🇹🇳
+Currently working on developing AI solutions for day-to-day tasks to help improve productivity in various fields. 
+
+Based in Tunisia. 🇹🇳
 
 - 🌐 **Website:** [aymennasri.github.io](https://aymennasri.github.io)
 - 🦋 **BlueSky:** [@aymennasri.bsky.social](https://bsky.app/profile/aymennasri.bsky.social)
